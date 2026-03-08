@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+#Hello to my HomePage Mate 
+```js
+const var = "Hello world";
+```
 ---
