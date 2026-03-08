@@ -1,6 +1,5 @@
----
-#Hello to my HomePage Mate 
+# Hello to my HomePage Mate
+ 
 ```js
 const var = "Hello world";
 ```
----
